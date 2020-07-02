@@ -1,5 +1,5 @@
 function world()
 {
-    console.log("Hello!");
+    console.log("Hello Master!");
 };
 exports.world=world;
